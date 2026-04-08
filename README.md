@@ -77,7 +77,7 @@ Admin can also view student details
 Admin can change own password
 
 
-Admin Dashboard:
+Admin Dashboard:https://github.com/Someshkumar8998
 
 
 
@@ -98,7 +98,7 @@ Student can also change own password.
 Student can also recover own password.
 
 
-Student Dashboard:
+Student Dashboard:https://github.com/Someshkumar8998
 
 
 ﻿# Online-Library-Management
